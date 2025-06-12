@@ -1,0 +1,7 @@
+
+# Playwright
+Task_2/node_modules/
+Task_2/test-results/
+Task_2/playwright-report/
+Task_2/blob-report/
+Task_2/playwright/.cache/
